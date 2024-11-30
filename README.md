@@ -69,10 +69,10 @@ The next analysis looked at the spending behavior across different age groups. W
 ## State Analysis
 We examined which states had the highest number of orders and the highest total sales. This analysis helps in identifying the regions where sales were more concentrated during Diwali.
 
-# Visualization: Total Orders by State
+### Visualization: Total Orders by State
 ![Total Orders by State](./src/state_orders.png)
 
-# Visualization: Total Sales by State
+### Visualization: Total Sales by State
 ![Total Sales by State](./src/state_amount.png)
 
 
@@ -104,16 +104,24 @@ We examined the spending behavior based on product categories, identifying the c
 From the analysis, we observed several key trends:
 
 **Gender:** Women have higher overall sales compared to men during Diwali.
+
 **Age Group:** The age group of 26-35 years contributes significantly to sales, especially for women.
+
 **State:** UP, Maharashtra, and Karnataka are the top contributors to Diwali sales.
+
 **Marital Status:** Married women are more likely to spend during the festive season.
+
 **Occupation:** Occupations in IT, Healthcare, and Aviation have higher purchasing power.
+
 **Product Categories:** Clothing, Food, and Electronics are the most popular categories purchased during Diwali.
+
 These insights can be used to target specific demographics and regions with tailored marketing strategies.
 
 ## Tools and Technologies
 **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+
 **Data Processing:** Data cleaning, transformation, and analysis
+
 **Visualization:** Bar plots, Count plots
 
 ## Future Work
