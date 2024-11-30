@@ -125,9 +125,13 @@ These insights can be used to target specific demographics and regions with tail
 **Visualization:** Bar plots, Count plots
 
 ## Future Work
-**Machine Learning Models:** - Implement predictive models to forecast sales during future Diwali seasons based on historical data.
-**Web Dashboard:** - Develop an interactive web dashboard to display the analysis and provide real-time insights for decision-making.
-**More Data:** - Expand the dataset to include additional customer attributes such as income, location, and family size for deeper analysis.
+**Machine Learning Models:** 
+- Implement predictive models to forecast sales during future Diwali seasons based on historical data.
+  
+**Web Dashboard:** 
+- Develop an interactive web dashboard to display the analysis and provide real-time insights for decision-making.
+**More Data:**
+- Expand the dataset to include additional customer attributes such as income, location, and family size for deeper analysis.
 
 
 
